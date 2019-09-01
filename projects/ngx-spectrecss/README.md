@@ -1,6 +1,53 @@
-# NgxSpectrecss
+# NgxSpectreCss
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0.
+
+## Todo list
+
+### Elements
+- [ ] Buttons
+- [ ] Forms
+- [ ] Labels
+- [ ] Media
+- [ ] Tables
+
+### Layout
+- [ ] Navbar
+
+### Components
+- [ ] Accordions
+- [ ] Avatars
+- [ ] Badges
+- [ ] Bars
+- [ ] Breadcrumbs
+- [ ] Cards
+- [ ] Chips
+- [ ] Empty states
+- [ ] Menu
+- [ ] Modals
+- [ ] Nav
+- [ ] Pagination
+- [ ] Panels
+- [ ] Popovers
+- [ ] Steps
+- [ ] Tabs
+- [ ] Tiles
+- [ ] Toasts
+- [ ] Tooltips
+
+### Experimentals
+- [ ] 360-Degree Viewer
+- [ ] Autocomplete
+- [ ] Calendars
+- [ ] Carousels
+- [ ] Comparison sliders
+- [ ] Filters
+<!-- - [ ] Meters -->
+- [ ] Off-canvas
+<!-- - [ ] Parallax -->
+<!-- - [ ] Progress -->
+- [ ] Sliders
+- [ ] Timelines
 
 ## Code scaffolding
 
